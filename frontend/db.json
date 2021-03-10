@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "name": "Balo Màu Đỏ",
+      "price": "100000",
+      "quantity": "12",
+      "desc": "Đẹp không tì vết",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fbalo_balos_active_do_tuoi_thumb.png?alt=media&token=b58454e9-22c5-4235-8511-1c75e8add5d1",
+      "categoryId": "1",
+      "id": "1"
+    },
+    {
+      "name": "Balo Màu Xám",
+      "price": "123000",
+      "quantity": "12",
+      "desc": "Thương hiệu SimpleCarry tiếp tục ra mắt bộ sưu tập balo thời trang 1 quai cao cấp với màu sắc hiện đại, năng động mang tên Sling Big. Túi đeo chéo SimpleCarry Sling Big Black mang phong cách cá tính nhẹ nhàng của xứ sở Kim Chi, kích thước thiết kế tinh tế dùng cho dòng máy màn hình 13.3in",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fbalo_agva_nw8023_15_6_m_black_11878_21603934970.jpg?alt=media&token=680e3aaf-e38e-472e-b38a-44aaa12e38bf",
+      "categoryId": "1",
+      "id": "2"
+    },
+    {
+      "name": "Balo Hoa",
+      "price": "300000",
+      "quantity": "13",
+      "desc": "Thương hiệu SimpleCarry tiếp tục ra mắt bộ sưu tập balo thời trang 1 quai cao cấp với màu sắc hiện đại, năng động mang tên Sling Big. Túi đeo chéo SimpleCarry Sling Big Black mang phong cách cá tính nhẹ nhàng của xứ sở Kim Chi, kích thước thiết kế tinh tế dùng cho dòng máy màn hình 13.3in",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fbalo_thoi_trang_simplecarry_k3_hoa1_thumb.jpg?alt=media&token=66316386-46c1-432e-b981-0813f60a9f8a",
+      "categoryId": "2",
+      "id": "3"
+    },
+    {
+      "name": "Balo Xanh",
+      "price": "250000",
+      "quantity": "56",
+      "desc": "Thương hiệu SimpleCarry tiếp tục ra mắt bộ sưu tập balo thời trang 1 quai cao cấp với màu sắc hiện đại, năng động mang tên Sling Big. Túi đeo chéo SimpleCarry Sling Big Black mang phong cách cá tính nhẹ nhàng của xứ sở Kim Chi, kích thước thiết kế tinh tế dùng cho dòng máy màn hình 13.3in",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fbalo_deuter_up_seoul18.png?alt=media&token=9395e67f-a9dc-4486-908d-9dfc40af9e84",
+      "categoryId": "1",
+      "id": "4"
+    },
+    {
+      "name": "Balo Đen",
+      "price": "122500",
+      "quantity": "12",
+      "desc": "Thương hiệu SimpleCarry tiếp tục ra mắt bộ sưu tập balo thời trang 1 quai cao cấp với màu sắc hiện đại, năng động mang tên Sling Big. Túi đeo chéo SimpleCarry Sling Big Black mang phong cách cá tính nhẹ nhàng của xứ sở Kim Chi, kích thước thiết kế tinh tế dùng cho dòng máy màn hình 13.3in",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Femphasis1_800x800.jpg?alt=media&token=64c64aa1-e9c8-486a-bb1d-92694ac1ff90",
+      "categoryId": "1",
+      "id": "dhbk1fy91"
+    },
+    {
+      "id": "3lliolq2t",
+      "name": "Balo du lịch",
+      "desc": "Thương hiệu SimpleCarry tiếp tục ra mắt bộ sưu tập balo thời trang 1 quai cao cấp với màu sắc hiện đại, năng động mang tên Sling Big. Túi đeo chéo SimpleCarry Sling Big Black mang phong cách cá tính nhẹ nhàng của xứ sở Kim Chi, kích thước thiết kế tinh tế dùng cho dòng máy màn hình 13.3in",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fbalo-sakos-alpha-8-66a8caba-f916-4497-9d46-30744dd15f60-04b8ccff-4a84-4f37-8d7f-e0b4b35378ac-826b7a2a-1847-4062-a81d-91947933e677.jpg?alt=media&token=9274acc7-7531-43eb-bc80-c03812a228d3",
+      "quantity": "35",
+      "price": "400000",
+      "categoryId": "2"
+    },
+    {
+      "id": "z59htc6sd",
+      "name": "Balo laptop",
+      "desc": "Thương hiệu SimpleCarry tiếp tục ra mắt bộ sưu tập balo thời trang 1 quai cao cấp với màu sắc hiện đại, năng động mang tên Sling Big. Túi đeo chéo SimpleCarry Sling Big Black mang phong cách cá tính nhẹ nhàng của xứ sở Kim Chi, kích thước thiết kế tinh tế dùng cho dòng máy màn hình 13.3in",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fe_city_grey_2_800x800.jpg?alt=media&token=93c03cf0-874f-4e46-9acf-64066d51b465",
+      "quantity": "16",
+      "price": "600000",
+      "categoryId": "2"
+    },
+    {
+      "id": "vqsxl50iw",
+      "name": "Balo X",
+      "desc": "Thương hiệu SimpleCarry tiếp tục ra mắt bộ sưu tập balo thời trang 1 quai cao cấp với màu sắc hiện đại, năng động mang tên Sling Big. Túi đeo chéo SimpleCarry Sling Big Black mang phong cách cá tính nhẹ nhàng của xứ sở Kim Chi, kích thước thiết kế tinh tế dùng cho dòng máy màn hình 13.3in",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fbalo-mikkor-edwin-14.jpg?alt=media&token=82486c3c-a308-4c38-bc6a-52ae96cc7d4a",
+      "quantity": "5",
+      "price": "240000",
+      "categoryId": "2"
+    },
+    {
+      "id": "34m6wpc3v",
+      "name": "Kuame Mckeev ",
+      "desc": "Est accusamus ea re",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2F1db48d46b1ef1bc2d6c87b795ba2aa04.jpg?alt=media&token=40843154-2d13-4af1-83c1-db6f5bd10849",
+      "quantity": "598",
+      "price": "15000",
+      "categoryId": "1"
+    },
+    {
+      "id": "i0rchtrmh",
+      "name": "September Graves",
+      "desc": "<p><strong>ggđsggdsgdsg</strong></p>",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fbalo_balos_active_do_tuoi_thumb.png?alt=media&token=ec0ad606-005c-4947-bb9d-a752183f0c14",
+      "quantity": "84",
+      "price": "281",
+      "categoryId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Balo Nam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fbalo-mikkor-edwin-2-ac950ffd-afe9-486f-b056-287522f0f0b6.jpg?alt=media&token=5cdafc12-4462-406d-8b07-224bbfe41837",
+      "id": "1"
+    },
+    {
+      "name": "Balo Nữ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/images%2Fbalo-hoc-sinh-cap-3-3-1-562x400-1.jpg?alt=media&token=12010e8d-a055-46e5-aa94-98eb0fdcec95",
+      "id": "2"
+    }
+  ],
+  "users": [
+    {
+      "id": "9lz21fj1b",
+      "fullname": "Nguyễn Mạnh Quân",
+      "email": "admin@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "81fjwledl",
+      "fullname": "quan",
+      "email": "quannmph11896@fpt.edu.vn",
+      "password": "12"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "9qjdke0l6",
+      "fullname": "Channing Graves",
+      "email": "muqikuce@mailinator.com",
+      "mess": "Consectetur reprehe"
+    },
+    {
+      "id": "qawuvqlt9",
+      "fullname": "Charissa Graves",
+      "email": "nyze@mailinator.com",
+      "mess": "Perspiciatis volupt",
+      "status": 1
+    },
+    {
+      "id": "vq25eqxsk",
+      "fullname": "Taylor Christensen",
+      "email": "rolafar@mailinator.com",
+      "mess": "Voluptates qui reici"
+    },
+    {
+      "id": "2vld79kt7",
+      "fullname": "Hashim Melton",
+      "email": "zamuduf@mailinator.com",
+      "mess": "Nobis unde ut vero e"
+    }
+  ]
+}
